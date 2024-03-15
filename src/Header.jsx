@@ -1,20 +1,20 @@
-import { createPortal } from "react-dom";
-import { useState } from "react";
-import { UserProvider } from "./UserContext";
+import { createPortal } from 'react-dom'
+import { useState } from 'react'
+import { UserProvider } from './UserContext'
 
-const header = document.querySelector("#header");
+const header = document.querySelector('#header')
 
-function MyHeader() {
-  const [user, setUser] = useState("icecoffee");
+function MyHeader () {
+  const [user, setUser] = useState('icecoffee')
   return (
     <>
       <UserProvider value={user}>
-        <div className="input-field">
-          <label htmlFor="input-user">
+        <div className='input-field'>
+          <label htmlFor='input-user'>
             <input
-              type="text"
-              name="user"
-              id="input-user"
+              type='text'
+              name='user'
+              id='input-user'
               value={user}
               onChange={(e) => setUser(e.target.value)}
               onBlur={(e) => setUser(e.target.value)}
@@ -23,11 +23,11 @@ function MyHeader() {
         </div>
       </UserProvider>
     </>
-  );
+  )
 }
 
-function Header() {
-  return createPortal(<MyHeader />, header);
+function Header () {
+  return createPortal(<MyHeader />, header)
 }
 
-export default Header;
+export default Header

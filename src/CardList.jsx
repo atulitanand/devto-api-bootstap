@@ -1,7 +1,7 @@
-import Card from "./Card";
+import Card from './Card'
 
-function CardList({ props }) {
-  return props.map((user) => <Card user={user} key={user.id} />);
+function CardList ({ props }) {
+  return props.map((user) => <Card user={user} key={user.id} />)
 }
 
-export default CardList;
+export default CardList
