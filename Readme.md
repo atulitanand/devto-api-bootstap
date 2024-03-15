@@ -2,9 +2,9 @@
 
 Welcome to the Devto api app GitHub repository!
 
-This repository hosts a remarkable application crafted with Next.js and powered by the dev.to API. Developed by [Your Name], this application offers users a seamless and captivating experience for searching articles in real-time.
+This repository hosts a remarkable application crafted with Next.js and powered by the dev.to API. Developed by Atulit Anand, this application offers users a seamless and captivating experience for searching articles in real-time.
 
-With a focus on efficiency and elegance, Atulit Anand has designed this application to streamline the process of discovering articles from the dev.to platform. Through real-time searching capabilities and a visually appealing interface, users can easily explore and access a wide range of articles in a beautiful manner.
+With a focus on efficiency and elegance, He has designed this application to streamline the process of discovering articles from the dev.to platform. Through real-time searching capabilities and a visually appealing interface, users can easily explore and access a wide range of articles in a beautiful manner.
 
 He created this application with the intention of providing users with a more efficient and enjoyable way to search for quotes. By leveraging Next.js and the dev.to API, Atuilt has developed a tool that empowers users to discover and engage with articles in a seamless and immersive manner.
 
