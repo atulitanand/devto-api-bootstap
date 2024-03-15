@@ -4,7 +4,7 @@
 
 ## Git [Repository](https://github.com/icecoffee-dev/devto-api-bootstap/tree/main)
 
-### Build your own dreams, or someone else will hire you to build theirs.
+ Build your own dreams, or someone else will hire you to build theirs.
 
 - Add dev.to api `here`
 
@@ -27,7 +27,7 @@ git push -u origin main
 
 #### Message from inital commit in searchbox branch --only for searchbox
 
-# Read this and apply [Context API](https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214)
+Note to self: Read this and apply [Context API](https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214)
 
 ```code
 warning: LF will be replaced by CRLF in .prettierrc.
