@@ -4,7 +4,7 @@
 
 ## Git [Repository](https://github.com/icecoffee-dev/devto-api-bootstap/tree/main)
 
- Build your own dreams, or someone else will hire you to build theirs.
+Build your own dreams, or someone else will hire you to build theirs.
 
 - Add dev.to api `here`
 
