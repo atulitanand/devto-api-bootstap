@@ -10,12 +10,11 @@ He created this application with the intention of providing users with a more ef
 
 We invite you to explore the features and functionalities of this application and experience firsthand the power of real-time searching and beautifully presented articles. Thank you for visiting our repository, and we look forward to your support and feedback as we continue to enhance and refine this project.
 
-
 [Git guide](https://github.com/git-guides/git-push)
 
 ## Git [Repository](https://github.com/icecoffee-dev/devto-api-bootstap/tree/main)
 
- Build your own dreams, or someone else will hire you to build theirs.
+Build your own dreams, or someone else will hire you to build theirs.
 
 - Add dev.to api `here`
 
